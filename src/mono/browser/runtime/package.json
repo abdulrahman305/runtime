@@ -28,7 +28,7 @@
     "@rollup/plugin-virtual": "3.0.2",
     "@typescript-eslint/eslint-plugin": "5.59.1",
     "@typescript-eslint/parser": "5.59.1",
-    "eslint": "8.44.0",
+    "eslint": "9.4.0",
     "fast-glob": "3.3.2",
     "git-commit-info": "2.0.2",
     "magic-string": "0.30.10",
